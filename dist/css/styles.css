@@ -498,15 +498,17 @@ Utilities
     }
 
     .text_prim {
-        font-size: 2rem;
+        font-size: 2.5rem;
+        color: var(--color-primary);
     }
     
     .text_sec {
-        font-size: 1.3rem;
+        font-size: 2rem;
+        color: var(--color-primary);
     }
 
     .text_slogan {
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
 
     nav a {
